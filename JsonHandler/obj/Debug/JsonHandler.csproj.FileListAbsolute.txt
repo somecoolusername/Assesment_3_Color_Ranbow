@@ -1,0 +1,7 @@
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\JsonHandler\bin\Debug\JsonHandler.dll
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\JsonHandler\bin\Debug\JsonHandler.pdb
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\JsonHandler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\JsonHandler\obj\Debug\JsonHandler.csprojResolveAssemblyReference.cache
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\JsonHandler\obj\Debug\JsonHandler.csproj.CoreCompileInputs.cache
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\JsonHandler\obj\Debug\JsonHandler.dll
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\JsonHandler\obj\Debug\JsonHandler.pdb

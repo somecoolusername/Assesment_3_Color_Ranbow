@@ -1,0 +1,6 @@
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\MyColors\bin\Debug\MyColors.dll
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\MyColors\bin\Debug\MyColors.pdb
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\MyColors\obj\Debug\MyColors.csprojResolveAssemblyReference.cache
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\MyColors\obj\Debug\MyColors.csproj.CoreCompileInputs.cache
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\MyColors\obj\Debug\MyColors.dll
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\MyColors\obj\Debug\MyColors.pdb

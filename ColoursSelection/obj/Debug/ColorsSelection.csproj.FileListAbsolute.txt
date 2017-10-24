@@ -1,0 +1,17 @@
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\bin\Debug\ColoursSelection.exe.config
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\bin\Debug\ColoursSelection.exe
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\bin\Debug\ColoursSelection.pdb
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\obj\Debug\ColorsSelection.csprojResolveAssemblyReference.cache
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\obj\Debug\ColorsSelection.Form1.resources
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\obj\Debug\ColoursSelection.Properties.Resources.resources
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\obj\Debug\ColorsSelection.csproj.GenerateResource.Cache
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\obj\Debug\ColorsSelection.csproj.CoreCompileInputs.cache
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\obj\Debug\ColoursSelection.exe
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\obj\Debug\ColoursSelection.pdb
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\bin\Debug\JsonHandler.dll
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\bin\Debug\JsonHandler.pdb
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\obj\Debug\ColorsSelection.csproj.ColoursSelection.exe.config
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\bin\Debug\MyColors.dll
+C:\Users\Yang Wan-li\Work\TAFE\Assessments\Dynamic Data Structures\Assessment 3 Multi-process application and third party library\Rainbow\ColoursSelection\bin\Debug\MyColors.pdb
